@@ -75,3 +75,36 @@ task-management-system/
 │ └── package.json
 │
 └── README.md
+**Backend Setup**
+
+cd backend
+npm install
+npx prisma migrate dev
+npm run dev
+
+**Frontend Setup**
+
+cd frontend
+npm install
+npm run dev
+
+**🧪 API Endpoints
+Authentication**
+
+POST /auth/register
+
+POST /auth/login
+
+POST /auth/refresh
+
+POST /auth/logout
+
+Tasks
+
+POST /tasks
+
+GET /tasks
+
+PATCH /tasks/:id/toggle
+
+DELETE /tasks/:id
