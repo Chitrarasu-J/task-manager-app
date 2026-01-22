@@ -77,16 +77,16 @@ task-management-system/
 └── README.md
 **Backend Setup**
 
-cd backend
-npm install
-npx prisma migrate dev
-npm run dev
+cd backend\
+npm install\
+npx prisma migrate dev\
+npm run dev\
 
 **Frontend Setup**
 
-cd frontend
-npm install
-npm run dev
+cd frontend\
+npm install\
+npm run dev\
 
 **🧪 API Endpoints
 Authentication**
