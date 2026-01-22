@@ -62,19 +62,21 @@ Each user can manage **only their own tasks**.
 
 ## 📂 Project Structure
 
+```text
 task-management-system/
 │
 ├── backend/
-│ ├── src/
-│ ├── prisma/
-│ └── package.json
+│   ├── src/
+│   ├── prisma/
+│   └── package.json
 │
 ├── frontend/
-│ ├── src/
-│ ├── public/
-│ └── package.json
+│   ├── src/
+│   ├── public/
+│   └── package.json
 │
 └── README.md
+
 \
 **Backend Setup**
 
