@@ -75,18 +75,19 @@ task-management-system/
 │ └── package.json
 │
 └── README.md
+\
 **Backend Setup**
 
 cd backend\
 npm install\
 npx prisma migrate dev\
-npm run dev\
+npm run dev
 
 **Frontend Setup**
 
 cd frontend\
 npm install\
-npm run dev\
+npm run dev
 
 **🧪 API Endpoints
 Authentication**
