@@ -1,3 +1,7 @@
+
+
+https://github.com/user-attachments/assets/aec048b6-61e9-4feb-b969-5bff1fa3b852
+
 # Secure Task Management System
 
 A full-stack Task Management Application built as part of the Earnest Fintech Limited Software Engineering Assessment (Track A).
